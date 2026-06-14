@@ -8,6 +8,11 @@
 - **Tecla C** - Altera o aspeto visual do cubo com uma nova cor RGB aleatória.
 
 ---
+🎵 Funcionalidade Bônus: Trilha Sonora Original
+Para complementar o design minimalista do jogo com uma imersão mais forte, o ambiente possui uma música de fundo contínua. A faixa utilizada é uma produção musical da minha autoria, focada na estrutura e vibração do funk submundo. A batida e o alinhamento foram inteiramente desenvolvidos e misturados por mim e um amigo no FL Studio. 
+A faixa completa encontra-se disponível no meu perfil do Spotify!
+
+🎧 Ouça no Spotify: https://open.spotify.com/intl-pt/track/78egRNN7B5j1Fp8YZIoVvk?si=e59602ae12fc4e9e
 
 ### 🎥 Gameplay
 <img width="883" height="874" alt="Captura de tela 2026-06-14 202528" src="https://github.com/user-attachments/assets/ae802d67-8986-41be-9ad3-7446c731f828" />
@@ -83,8 +88,4 @@ void Update()
 
 ````
 
-🎵 Funcionalidade Bónus: Trilha Sonora Original
-Para complementar o design minimalista do jogo com uma imersão mais forte, o ambiente possui uma música de fundo contínua. A faixa utilizada é uma produção musical da minha autoria, focada na estrutura e vibração do funk submundo. A batida e o alinhamento foram inteiramente desenvolvidos e misturados por mim e um colega DJ no FL Studio. 
-A faixa completa encontra-se disponível no meu perfil do Spotify!
 
-🎧 Ouça no Spotify: https://open.spotify.com/intl-pt/track/78egRNN7B5j1Fp8YZIoVvk?si=e59602ae12fc4e9e
