@@ -1,6 +1,6 @@
-# Cubo Néon: O Jogo
+# Cubo Neon: O Jogo
 
-**Descrição:** Cubo Néon é um jogo 3D minimalista focado na movimentação física do personagem principal. O projeto foi desenvolvido de raiz no Unity para a entrega do 2º Bimestre, priorizando a estabilidade mecânica, interface via código e física de colisão.
+**Descrição:** Cubo Neon é um jogo 3D minimalista focado na movimentação física do personagem principal. O projeto foi desenvolvido de raiz no Unity para a entrega do 2º Bimestre, priorizando a estabilidade mecânica, interface via código e física de colisão.
 
 **Instruções de Jogabilidade:**
 - **Teclas WASD** - Movimentam o cubo pelo cenário.
@@ -15,7 +15,11 @@ A faixa completa encontra-se disponível no meu perfil do Spotify!
 🎧 Ouça no Spotify: https://open.spotify.com/intl-pt/track/78egRNN7B5j1Fp8YZIoVvk?si=e59602ae12fc4e9e
 
 ### 🎥 Gameplay
-<img width="883" height="874" alt="Captura de tela 2026-06-14 202528" src="https://github.com/user-attachments/assets/ae802d67-8986-41be-9ad3-7446c731f828" />
+
+
+https://github.com/user-attachments/assets/9fa076e6-27d9-45f2-9676-974f056bc737
+
+
 
 
 ---
